@@ -39,7 +39,7 @@
     "less": "^3.9.0",
     "less-loader": "^5.0.0",
     "moment": "^2.24.0",
-    "node-sass": "^4.9.0",
+    "node-sass": "^4.13.1",
     "pug": "^2.0.4",
     "pug-plain-loader": "^1.0.0",
     "sass-loader": "^7.1.0",
